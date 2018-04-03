@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf=8"?>
+<lugares>
+	<locacion>
+		<imagen> Ana v2.jpg</imagen>
+		
+	</locacion>
+<locacion>
+		<imagen>Bastion V2.jpg</imagen>
+		
+	</locacion>
+<locacion>
+		<imagen> DVa v2jpg.jpg</imagen>
+		
+	</locacion>
+<locacion>
+		<imagen> gengu v2.jpg</imagen>
+		
+	</locacion>
+<locacion>
+		<imagen> hanzo v2.jpg</imagen>
+		
+	</locacion>
+<locacion>
+		<imagen> Lucio v2.jpg</imagen>
+		
+	</locacion>
+<locacion>
+		<imagen> Mccree v2.jpg</imagen>
+		
+	</locacion>
+<locacion>
+		<imagen> mei V2.jpg</imagen>
+		
+	</locacion>
+<locacion>
+		<imagen> mercy v2.jpg</imagen>
+		
+	</locacion>
+<locacion>
+		<imagen> soldado V2.jpg</imagen>
+	</locacion>
+<locacion> 
+		<imagen> phara v2.jpg</imagen>
+	</locacion>
+<locacion>
+		<imagen>reaper V2.jpg</imagen>
+	</locacion>
+<locacion>	
+		<imagen> zen V2.png</imagen>
+	</locacion>
+<locacion>	
+		<imagen> winston V2.jpg</imagen>
+	</locacion>
+<locacion>
+		<imagen> widowmakerV2.jpg</imagen>
+	</locacion>
+<locacion>
+		<imagen> zarya V2.jpg</imagen>
+	</locacion>
+<locacion>
+		<imagen> sombra V2.jpg</imagen>
+	</locacion>
+<locacion>
+		<imagen> roadhog V2.jpg</imagen>
+	</locacion>
+<locacion>
+		<imagen> tracer V2.jpg</imagen>
+	</locacion>
+<locacion>
+		<imagen> moira V2.png</imagen>
+	</locacion>
+</lugares>
