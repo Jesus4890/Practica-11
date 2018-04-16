@@ -70,6 +70,10 @@ import flash.net.*;
 		var url11:URLRequest= new URLRequest("juego2.html");
 		navigateToURL(url11, "safe");
 	}
+	public function ftet(event:MouseEvent){
+		var url12:URLRequest= new URLRequest("Tetris.html");
+		navigateToURL(url12, "safe");
+	}
 	public function fes(event:MouseEvent){
 	var v: nose= new nose();
 			v.playMyFlv("Video español.mp4");
@@ -83,6 +87,11 @@ import flash.net.*;
 			addChild(v);
 			v.y=200;
 			v.x=-100;
+			
+}
+public function fsal3(event:MouseEvent):void{
+	//removeChild(v);
+	gotoAndStop(2);
 }
 	public function gale(e:Event){
 	 datosXML= new XML(e.target.data);
